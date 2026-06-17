@@ -221,7 +221,7 @@ Please follow the existing walkthrough format and ensure all content is original
 **Omkar Sawant** — Cybersecurity Enthusiast | Penetration Tester | Security Researcher
 
 [![GitHub](https://img.shields.io/badge/GitHub-omkarsawant1337-black?style=flat-square&logo=github)](https://github.com/omkarsawant1337)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/omkar-sawant-37bb5228b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omkar-sawant-37bb5228b)
 
 ---
 
