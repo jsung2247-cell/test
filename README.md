@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-VulnHub-orange?style=flat-square)](https://www.vulnhub.com/)
 [![Purpose](https://img.shields.io/badge/Purpose-Ethical%20Hacking-red?style=flat-square)](https://github.com/omkarsawant1337/VulnHub-Walkthroughs)
-[![Machines](https://img.shields.io/badge/Machines%20Completed-2-blueviolet?style=flat-square)](https://github.com/omkarsawant1337/VulnHub-Walkthroughs)
+[![Machines](https://img.shields.io/badge/Machines%20Completed-26-blueviolet?style=flat-square)](https://github.com/omkarsawant1337/VulnHub-Walkthroughs)
 [![Methodology](https://img.shields.io/badge/Methodology-PTES%20%7C%20OWASP-blue?style=flat-square)](https://github.com/omkarsawant1337/VulnHub-Walkthroughs)
 
 > All walkthroughs are conducted in isolated, authorized lab environments strictly for educational and research purposes.
@@ -31,11 +31,11 @@ VulnHub-Walkthroughs/
 │
 ├── Basic Pentesting: 1/
 │   ├── README.md                              # Full walkthrough writeup
-│   └── VulnHub_Basic_Pentesting_1_Pr...       # Penetration test report / PoC
+│   └── Basic_Pentesting_1_Walkthrough...       # Detailed walkthrough document
 │
 └── Basic Pentesting: 2/
     ├── README.md                              # Full walkthrough writeup
-    └── Basic_Pentesting_2_Walkthroug...       # Detailed walkthrough document
+    └── Basic_Pentesting_2_Walkthrough...       # Detailed walkthrough document
 ```
 
 > More machines will be added progressively as walkthroughs are completed.
