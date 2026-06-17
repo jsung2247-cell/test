@@ -42,17 +42,6 @@ VulnHub-Walkthroughs/
 
 ---
 
-## 📋 Machines Index
-
-| # | Machine | Difficulty | Key Techniques | Report |
-|---|---------|------------|----------------|--------|
-| 01 | [Basic Pentesting: 1](./Basic%20Pentesting:%201/README.md) | Beginner | Enumeration, Brute Force, Privilege Escalation | [PoC](./Basic%20Pentesting:%201/) |
-| 02 | [Basic Pentesting: 2](./Basic%20Pentesting:%202/README.md) | Beginner–Intermediate | Web Exploitation, Linux PrivEsc, Service Misconfig | [Walkthrough](./Basic%20Pentesting:%202/) |
-
-> **Legend:** Difficulty ratings follow VulnHub community consensus.
-
----
-
 ## 🔍 Methodology Phases
 
 Each machine walkthrough follows the industry-standard penetration testing lifecycle:
