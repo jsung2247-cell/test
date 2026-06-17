@@ -4,10 +4,11 @@
 
 **A professional penetration testing knowledge base documenting real-world attack techniques, vulnerability research, and offensive security methodologies on VulnHub machines.**
 
-[![GitHub Stars](https://img.shields.io/github/stars/omkarsawant1337/VulnHub-Walkthroughs?style=flat-square&color=gold)](https://github.com/omkarsawant1337/VulnHub-Walkthroughs/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/omkarsawant1337/VulnHub-Walkthroughs?style=flat-square&color=blue)](https://github.com/omkarsawant1337/VulnHub-Walkthroughs/network)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Ethical Hacking](https://img.shields.io/badge/Purpose-Ethical%20Hacking-red?style=flat-square)](https://github.com/omkarsawant1337/VulnHub-Walkthroughs)
+[![Platform](https://img.shields.io/badge/Platform-VulnHub-orange?style=flat-square)](https://www.vulnhub.com/)
+[![Purpose](https://img.shields.io/badge/Purpose-Ethical%20Hacking-red?style=flat-square)](https://github.com/omkarsawant1337/VulnHub-Walkthroughs)
+[![Machines](https://img.shields.io/badge/Machines%20Completed-2-blueviolet?style=flat-square)](https://github.com/omkarsawant1337/VulnHub-Walkthroughs)
+[![Methodology](https://img.shields.io/badge/Methodology-PTES%20%7C%20OWASP-blue?style=flat-square)](https://github.com/omkarsawant1337/VulnHub-Walkthroughs)
 
 > All walkthroughs are conducted in isolated, authorized lab environments strictly for educational and research purposes.
 
@@ -27,15 +28,28 @@ This repository is a hands-on penetration testing portfolio covering end-to-end 
 
 ```
 VulnHub-Walkthroughs/
-├── machines/
-│   ├── <MachineName>/
-│   │   ├── README.md          # Full walkthrough writeup
-│   │   ├── exploits/          # Custom scripts and PoC code
-│   │   └── screenshots/       # Evidence and proof of exploitation
-├── methodology/               # Reusable pentest checklists
-├── tools/                     # Custom helper scripts
-└── reports/                   # Sample professional pentest reports
+│
+├── Basic Pentesting: 1/
+│   ├── README.md                              # Full walkthrough writeup
+│   └── VulnHub_Basic_Pentesting_1_Pr...       # Penetration test report / PoC
+│
+└── Basic Pentesting: 2/
+    ├── README.md                              # Full walkthrough writeup
+    └── Basic_Pentesting_2_Walkthroug...       # Detailed walkthrough document
 ```
+
+> More machines will be added progressively as walkthroughs are completed.
+
+---
+
+## 📋 Machines Index
+
+| # | Machine | Difficulty | Key Techniques | Report |
+|---|---------|------------|----------------|--------|
+| 01 | [Basic Pentesting: 1](./Basic%20Pentesting:%201/README.md) | Beginner | Enumeration, Brute Force, Privilege Escalation | [PoC](./Basic%20Pentesting:%201/) |
+| 02 | [Basic Pentesting: 2](./Basic%20Pentesting:%202/README.md) | Beginner–Intermediate | Web Exploitation, Linux PrivEsc, Service Misconfig | [Walkthrough](./Basic%20Pentesting:%202/) |
+
+> **Legend:** Difficulty ratings follow VulnHub community consensus.
 
 ---
 
